@@ -1,0 +1,17 @@
+C:\Users\Ravindu Kavinda\Desktop\C# projects\Library project\Library project\Library project\bin\Debug\Library project.exe.config
+C:\Users\Ravindu Kavinda\Desktop\C# projects\Library project\Library project\Library project\bin\Debug\Library project.exe
+C:\Users\Ravindu Kavinda\Desktop\C# projects\Library project\Library project\Library project\bin\Debug\Library project.pdb
+C:\Users\Ravindu Kavinda\Desktop\C# projects\Library project\Library project\Library project\obj\Debug\Library project.csprojResolveAssemblyReference.cache
+C:\Users\Ravindu Kavinda\Desktop\C# projects\Library project\Library project\Library project\obj\Debug\Library_project.Form1.resources
+C:\Users\Ravindu Kavinda\Desktop\C# projects\Library project\Library project\Library project\obj\Debug\Library_project.Properties.Resources.resources
+C:\Users\Ravindu Kavinda\Desktop\C# projects\Library project\Library project\Library project\obj\Debug\Library project.csproj.GenerateResource.Cache
+C:\Users\Ravindu Kavinda\Desktop\C# projects\Library project\Library project\Library project\obj\Debug\Library project.exe
+C:\Users\Ravindu Kavinda\Desktop\C# projects\Library project\Library project\Library project\obj\Debug\Library project.pdb
+C:\Users\Ravindu Kavinda\Desktop\C# projects\Library project\Library project\Library project\obj\Debug\Library_project.Dashboard.resources
+C:\Users\Ravindu Kavinda\Desktop\C# projects\Library project\Library project\Library project\obj\Debug\Library_project.Addbooks.resources
+C:\Users\Ravindu Kavinda\Desktop\C# projects\Library project\Library project\Library project\obj\Debug\Library_project.viewbook.resources
+C:\Users\Ravindu Kavinda\Desktop\C# projects\Library project\Library project\Library project\obj\Debug\Library_project.addmember.resources
+C:\Users\Ravindu Kavinda\Desktop\C# projects\Library project\Library project\Library project\obj\Debug\Library_project.ViewMemberInfo.resources
+C:\Users\Ravindu Kavinda\Desktop\C# projects\Library project\Library project\Library project\obj\Debug\Library_project.IssueBooks.resources
+C:\Users\Ravindu Kavinda\Desktop\C# projects\Library project\Library project\Library project\obj\Debug\Library_project.ReturnBook.resources
+C:\Users\Ravindu Kavinda\Desktop\C# projects\Library project\Library project\Library project\obj\Debug\Library_project.CompleteBookDetails.resources
